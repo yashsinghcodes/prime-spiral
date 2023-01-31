@@ -1,8 +1,8 @@
 # Prime-Spiral
 
-The prime spiral is a graphical depiction of the set of prime numbers. read more about it on wikipedia. You can change the size in the source to meet your requirement.
+The prime spiral is a graphical depiction of the set of prime numbers. <a href="https://en.wikipedia.org/wiki/Ulam_spiral">read more about it on wikipedia</a>. You can change the size in the source to meet your requirement.
 
-![image]()
+![image](img/surface.png)
 
 ## Requirements
 - Python3
